@@ -1,0 +1,7 @@
+print("====================================")
+print(" PROGRAMACIÓN FUNDAMENTAL - UNIFRANZ")
+print("====================================")
+print("Estudiante: Camila Poma")
+print("Carrera: Ingeniería en Sistemas e Innovación Digital")
+print("Grupo: PFU-GRUPO-5")
+print("Estado: Archivo subido con exito a GitHub")

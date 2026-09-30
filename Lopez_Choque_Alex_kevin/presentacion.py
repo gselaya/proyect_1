@@ -1,0 +1,7 @@
+print("===========================")
+print("  DATOS DE LA PERSONA  ")
+print("===========================")
+print("Nombre Completo: Lopez Choque Alex Kevin")
+print("Carrera: Ingenieria de Sistemas")
+print("Semestre: 1er semestre")
+print("===============================================")
